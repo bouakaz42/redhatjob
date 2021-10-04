@@ -1,0 +1,85 @@
+
+watch_session
+{ 'Date': 'Sat, 02 Oct 2021 14:00:04 GMT',
+'Content-Type': 'text/html; charset=UTF-8',
+'Transfer-Encoding': 'chunked',
+'Connection': 'keep-alive',
+'vary': 'Accept-Encoding',
+'expires': 'Fri, 01 Oct 2021 14:00:04 GMT',
+'x-xss-protection': '1; mode=block',
+'x-content-type-options': 'nosniff',
+'x-nginx-upstream-cache-status': 'EXPIRED',
+'x-server-powered-by': 'Magictor.com',
+'CF-Cache-Status': 'DYNAMIC',
+'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=S9XwdxfZWazqbrFAUxBjtsxVDUfmIyWLr3yKjpoIw%2BMHmn7N72sC3U%2FTI0zPxObZRYr9CCPrio6u7waq%2FkdOo3FDTAabOODRQf6Aep%2FhG03937Pi5JJUxGPo8a0B7AcKY62bjKw%3D"}],"group":"cf-nel","max_age":604800}',
+'NEL': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+'Server': 'cloudflare',
+'CF-RAY': '697e7473cc8632bc-CDG',
+'Content-Encoding': 'gzip',
+'alt-svc': 'h3=":2053"; ma=86400, h3-29=":2053"; ma=86400, h3-28=":2053"; ma=86400, h3-27=":2053"; ma=86400' }
+movie_watch
+{ 'Date': 'Sat, 02 Oct 2021 13:58:25 GMT',
+'Content-Type': 'text/html; charset=UTF-8',
+'Transfer-Encoding': 'chunked',
+'Connection': 'keep-alive',
+'vary': 'Accept-Encoding',
+'link': '<https://arabseed.onl:2053/?p=462744>; rel=shortlink',
+'x-xss-protection': '1; mode=block',
+'x-content-type-options': 'nosniff',
+'x-nginx-upstream-cache-status': 'EXPIRED',
+'x-server-powered-by': 'Magictor.com',
+'CF-Cache-Status': 'DYNAMIC',
+'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=VaJvJpPpXq52BQ%2F%2F01tWnzEuB8YccSqIJzp%2Fq8kgp46LSTeGf8osO3l6oyKjh3ioawBmfvGIkDNUtLmksFzphnEA0rHHwezS66OGsDbZXOvZc%2B98xB%2B8C1%2F7oVXjMAZB3wtCwg%3D%3D"}],"group":"cf-nel","max_age":604800}',
+'NEL': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+'Server': 'cloudflare',
+'CF-RAY': '697e72072ba31515-MAD',
+'Content-Encoding': 'gzip',
+'alt-svc': 'h3=":2053"; ma=86400, h3-29=":2053"; ma=86400, h3-28=":2053"; ma=86400, h3-27=":2053"; ma=86400' }
+
+
+movie_page
+
+
+{ 'Date': 'Sat, 02 Oct 2021 13:51:28 GMT',
+'Content-Type': 'text/html; charset=UTF-8',
+'Transfer-Encoding': 'chunked',
+'Connection': 'keep-alive',
+'vary': 'Accept-Encoding',
+'link': '<https://arabseed.onl:2053/?p=462744>; rel=shortlink',
+'x-xss-protection': '1; mode=block',
+'x-content-type-options': 'nosniff',
+'x-nginx-upstream-cache-status': 'EXPIRED',
+'x-server-powered-by': 'Magictor.com',
+'CF-Cache-Status': 'DYNAMIC',
+'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=y%2B4ujurfFbWLG1kp9V5eM4kDTi1qnnWufVPFmzm3DYrz3osrTaOKrM8mwVs0fRvYC%2F8Vh4sobHQw5YPRQd%2F9SzFKQEY0iuPgyJlV2dQBJjUkFirt7zKEo1GsfWx3QOGae3SGNA%3D%3D"}],"group":"cf-nel","max_age":604800}',
+'NEL': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+'Server': 'cloudflare',
+'CF-RAY': '697e67dd2fbbd66d-MAD',
+'Content-Encoding': 'gzip',
+'alt-svc': 'h3=":2053"; ma=86400, h3-29=":2053"; ma=86400, h3-28=":2053"; ma=86400, h3-27=":2053"; ma=86400' }
+
+
+search
+
+
+{ 'Date': 'Sat, 02 Oct 2021 13:54:26 GMT',
+'Content-Type': 'text/html; charset=UTF-8',
+'Transfer-Encoding': 'chunked',
+'Connection': 'keep-alive',
+'vary': 'Accept-Encoding',
+'link': '<https://arabseed.onl:2053/?p=438806>; rel=shortlink',
+'x-xss-protection': '1; mode=block',
+'x-content-type-options': 'nosniff',
+'x-nginx-upstream-cache-status': 'EXPIRED',
+'x-server-powered-by': 'Magictor.com',
+'CF-Cache-Status': 'DYNAMIC',
+'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=GBgOLMrgJvaqdKcb%2FCq%2Bpgf05rv2XfSyz5RJCJovuzrqLV7J%2BBfNlYkXGmi5mEi1NNEXL2FLSGZH0jPmb%2BAD931xcnjouI3I%2FU0C3nU4IiFsEhcF9Z7FsAqBvhGQqY0ec4iJwg%3D%3D"}],"group":"cf-nel","max_age":604800}',
+'NEL': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+'Server': 'cloudflare',
+'CF-RAY': '697e6c31f8226675-MAD',
+'Content-Encoding': 'gzip',
+'alt-svc': 'h3=":2053"; ma=86400, h3-29=":2053"; ma=86400, h3-28=":2053"; ma=86400, h3-27=":2053"; ma=86400' }
